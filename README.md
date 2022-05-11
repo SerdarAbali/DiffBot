@@ -8,16 +8,16 @@ You can use any motor driver such as L298N but you need to edit some parameters 
 
 -Raspberry 3
 
--Battery pack 
+-Battery pack: 
 I made a battery pack consisting of x4 18650 and DC-DC stepdown converter to reduce voltage to 12,2 volts. This should provide plenty of power to use your robot without worrying about power consumption. I provided additional 0,2 volts to make up for lost power due to wiring and equalizing the dc motor voltages just in case.
 
--Chassis
+-Chassis:
 I designed a chassis for my liking, I'll share my design once it is ready and as my schedule allows (or upon request)
 
--Wiring
+-Wiring:
 I'll share as my schedule allows (or upon request)
 
--ROS
+-ROS:
 Easiest way to deal with the ROS part is to just head over ubiquityrobotics download page and flash your card with the image provided here:
 https://downloads.ubiquityrobotics.com/pi.html
 
