@@ -59,7 +59,10 @@ Problem with yoraish robot is that it uses only Lidar for odometry and navigatio
 
 ToDo's:
 
-1-I will upload full ROS code to here once I tested everything.
+1-I will upload full ROS code to here once I tested everything
+
 2-Add Lidar
+
 3-Add IMU module
+
 4-Maybe add Kinect V2
