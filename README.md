@@ -5,6 +5,7 @@ DiffBot is a differential drive robot with 12V dc motors + encoders built with A
 You can use any motor driver such as L298N but you need to edit some parameters to make it work. I used a Cytron 10A 5-30V Dual Channel DC Motor Driver and Arduino code is made with this particular driver. I will later add L298N code if my schedule allows.
 
 -Arduino UNO
+
 -Raspberry 3
 
 -Battery pack 
