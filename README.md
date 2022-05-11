@@ -51,3 +51,15 @@ rostopic echo /right_ticks
 ```
 rosrun teleop_twist_keyboard teleop_twist_keyboard.py
 ```
+
+For ethical reasons I'd like to mention that I borrowed some Arduino code from Yoraish:
+https://github.com/yoraish/lidar_bot
+
+Problem with yoraish robot is that it uses only Lidar for odometry and navigation which is not reliable for many roboticist standards and dc motors used are without encoder.
+
+ToDo's:
+
+1-I will upload full ROS code to here once I tested everything.
+2-Add Lidar
+3-Add IMU module
+4-Maybe add Kinect V2
